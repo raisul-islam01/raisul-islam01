@@ -4,7 +4,7 @@
 
 Raisul Islam is a seasoned web developer known for his expertise in creating dynamic and innovative digital solutions. With a passion for technology and a keen eye for design, he has established himself as a go-to professional in the ever-evolving world of web development.
 
-Skills: PHP/ JS / HTML / CSS/ BOOTSTRAP / WORDPRESS THEME CUSTOMIZATION
+Skills: PHP/ JS / HTML / CSS/ BOOTSTRAP/ WORDPRESS THEME CUSTOMIZATION
 
 - 🔭 I’m currently working on Wordpress Plugin 
 - 🌱 I’m currently learning PHP 
